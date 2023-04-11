@@ -8,10 +8,10 @@ This is a classic Snake Game implemented using JavaScript and HTML5 canvas. The 
 To play the game, simply open [Snake Game JS](https://coding-priest7.github.io/Snake-Game-JS/) in your web browser. The game should start automatically.
 
 ## Game Controls
-The game is controlled using the arrow keys:
-`1.Up arrow: move the snake up`
-`2.Down arrow: move the snake down`
-`3.Left arrow: move the snake left`
+The game is controlled using the arrow keys:<br>
+`1.Up arrow: move the snake up`<br>
+`2.Down arrow: move the snake down`<br>
+`3.Left arrow: move the snake left`<br>
 `4.Right arrow: move the snake right`
 
 ## Game Rules
