@@ -9,12 +9,10 @@ To play the game, simply open [Snake Game JS](https://coding-priest7.github.io/S
 
 ## Game Controls
 The game is controlled using the arrow keys:
-<ul>
-`<li>Up arrow: move the snake up</li>`
-<li>`Down arrow: move the snake down`</li>
-<li>`Left arrow: move the snake left`</li>
-<li>`Right arrow: move the snake right`</li>
-</ul>
+`1.Up arrow: move the snake up
+2.Down arrow: move the snake down
+3.Left arrow: move the snake left
+4.Right arrow: move the snake right`
 
 ## Game Rules
 The goal of the game is to collect as much food as possible without colliding with any obstacles or the snake's own tail. The game ends when the snake collides with an obstacle or its own tail.
